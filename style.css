@@ -1,0 +1,46 @@
+/* style.css */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
+    background-color: #fffafa;
+    color: #1a1a1a;
+    margin: 0;
+    padding: 2em;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #990000;
+    color: white;
+    padding: 1.2em;
+    text-align: center;
+    font-size: 1.8em;
+    font-weight: bold;
+    border-bottom: 4px solid #cc0000;
+}
+
+h1, h2 {
+    color: #990000;
+}
+
+a {
+    color: #cc0000;
+    text-decoration: none;
+    margin-right: 1em;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    padding-left: 1.2em;
+}
+
+footer {
+    margin-top: 3em;
+    padding-top: 1em;
+    border-top: 1px solid #ccc;
+    font-size: 0.9em;
+    text-align: center;
+    color: #666;
+}
